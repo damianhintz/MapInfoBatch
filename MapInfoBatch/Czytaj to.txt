@@ -1,0 +1,13 @@
+MapInfoBatch v1.0 - Automatyzacja procesu eksportu tabel do MapInfo w Geomedia Professional
+Copyright (c) 2012-2016 OPGK Olsztyn. Wszelkie prawa zastrze¿one.
+Data publikacji: 24 maja 2012
+
+Nowe funkcje, ulepszenia, poprawki b³êdów
+
+Pomoc
+
+** Zmiany (historia)
+Do zrobienia
+
+2012-05-24 v1.0
+* pierwsza wersja

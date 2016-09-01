@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<ApplicationCommands xmlns="http://www.intergraph.com/GeoMedia/appcmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <ApplicationCommand xmlns="http://www.intergraph.com/GeoMedia/appcmd">
+    <ProgID>GeomediaCommand.MapInfoBatch</ProgID>
+    <DllName>MapInfoBatch.dll</DllName>
+    <BitmapRootFileName>
+    </BitmapRootFileName>
+    <Description>Eksport tabel do MapInfo</Description>
+    <Tooltip>Eksport tabel do MapInfo</Tooltip>
+    <EnableMask>59392</EnableMask>
+    <IsModal>1</IsModal>
+    <ModelessCommandPriority>NotAMapViewListener</ModelessCommandPriority>
+    <ModelessListenerMask>0</ModelessListenerMask>
+  </ApplicationCommand>
+</ApplicationCommands>
